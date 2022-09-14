@@ -46,3 +46,7 @@ There are 64 loops in the processing of a chunk. The 32-bit w should be ready be
 The first two examples are the header of [Block 125552](https://www.blockchain.com/btc/block/125552) and [Block 277316](https://www.blockchain.com/btc/block/277316), respectively.
 ![waveform of in_data and in_vld](./pic/wave_in.png)
 ![waveform of out_hash and out_vld](./pic/wave_out.png)
+
+## Reference
+* Secure Hash Algorithm 2. [[SHA-2](https://en.wikipedia.org/wiki/SHA-2)]
+* [[Block hashing algorithm](https://en.bitcoin.it/wiki/Block_hashing_algorithm)]
